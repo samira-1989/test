@@ -1,0 +1,27 @@
+.blue{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    position: relative;
+
+    /* top: 100px; */
+    /* right: 100px; */
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(240, 95, 95);
+    /* position: relative; */
+
+    /* top: 100px; */
+    /* right: 100px; */
+}
+.yellow{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(230, 227, 21);
+    /* position: relative; */
+
+    /* top: 100px; */
+    /* right: 100px; */
+}
